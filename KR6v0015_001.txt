@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:08.393066
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 天公經
 #+PROPERTY: CBETA_ID W01n0014a
 #+PROPERTY: ID KR6v0015
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014a
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0015_W_001-0369a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 天公經¶
 整理者　方廣錩¶
 ¶
 
@@ -56,10 +56,9 @@
 均無校本。上述三號文字錯訛變形較多，為避文繁，一般不¶出註。相關處必要時以三號互校，隨文說明。¶
 ¶
 
-錄文一¶
+* 〔錄文一〕¶
 ¶
-
- 佛說天公經一卷¶
+佛說天公經一卷¶
 ¶
 
 佛初築塔時，人眾如恒沙。辟支作寺主，普賢作維那，藥¶
